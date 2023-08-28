@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Chopade</h1>
-<h3 align="center">In this digital realm, I am an Explorer driven by Passion !!!<br>while(alive()) &#123; <br> &nbsp;&nbsp;&nbsp;&nbsp;try(); &#125;</h3>
+<h3 align="center">In this digital realm, I am an Explorer driven by Passion !!!<br>while(alive()) &#123; <br> &nbsp;&nbsp;&nbsp;&nbsp;explore(); &#125;</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
